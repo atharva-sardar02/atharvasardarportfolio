@@ -6,6 +6,7 @@ function App() {
         <div>
             <p>
                 Hey Atharva Here!!
+                Finally deployed on Github
             </p>
             <Home/>
         </div>
