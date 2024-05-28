@@ -1,15 +1,17 @@
 import React from "react";
+import "../assets/css/Home.css";
 
 
 function Home() {
     return (
         <div>
-            <p>
-                Hey Atharva Speaking from home here!!
-            </p>
-            <p>
-                Added Header and Footer
-            </p>
+            <img
+                src={require('../assets/images/header1.png')}
+                alt="AtharvaBookstoreReact Logo"
+                width="500px"
+                height="auto"
+                className="logo"
+            />
         </div>
     )
 }
