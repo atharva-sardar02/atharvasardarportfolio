@@ -8,7 +8,7 @@ function Home() {
                 Hey Atharva Speaking from home here!!
             </p>
             <p>
-                Repo needs to be public
+                testing a
             </p>
         </div>
     )
