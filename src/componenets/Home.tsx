@@ -6,8 +6,9 @@ function Home() {
         <div>
             <p>
                 Hey Atharva Speaking from home here!!
-                Trying to resolve the issue with the autodeployment
-                auto deployment test d
+            </p>
+            <p>
+                Repository private check
             </p>
         </div>
     )
