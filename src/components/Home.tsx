@@ -8,7 +8,7 @@ function Home() {
                 Hey Atharva Speaking from home here!!
             </p>
             <p>
-                testing b
+                Added Header and Footer
             </p>
         </div>
     )

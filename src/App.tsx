@@ -1,16 +1,22 @@
 import React from 'react';
-import Home from "./componenets/Home";
+import Home from "./components/Home";
+import AppHeader from './components/AppHeader';
+import AppFooter from './components/AppFooter';
+import {
+    BrowserRouter as Router,
+    Routes,
+    Route,
+} from "react-router-dom"
 
 function App() {
     return (
-        <div>
-            <p>
-                Hey Atharva Here!!
-                Finally deployed on Github
-                Another Change to test automated deployment
-            </p>
-            <Home/>
-        </div>
+        <Router basename={"atharvasardarportfolio"}>
+            <AppHeader />
+            <Routes>
+                <Route path="/" element={<Home/>}/>
+            </Routes>
+            <AppFooter />
+        </Router>
     );
 }
 
