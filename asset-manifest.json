@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/atharvasardarportfolio/static/css/main.5d9cc73a.css",
-    "main.js": "/atharvasardarportfolio/static/js/main.0649c326.js",
+    "main.css": "/atharvasardarportfolio/static/css/main.dc761813.css",
+    "main.js": "/atharvasardarportfolio/static/js/main.1c5b0020.js",
     "static/js/453.f9621e92.chunk.js": "/atharvasardarportfolio/static/js/453.f9621e92.chunk.js",
-    "static/media/header1.png": "/atharvasardarportfolio/static/media/header1.cfb3410cabc9a6c46ab7.png",
+    "static/media/ARS.png": "/atharvasardarportfolio/static/media/ARS.f858ff91b9ed853f3258.png",
     "index.html": "/atharvasardarportfolio/index.html",
-    "main.5d9cc73a.css.map": "/atharvasardarportfolio/static/css/main.5d9cc73a.css.map",
-    "main.0649c326.js.map": "/atharvasardarportfolio/static/js/main.0649c326.js.map",
+    "main.dc761813.css.map": "/atharvasardarportfolio/static/css/main.dc761813.css.map",
+    "main.1c5b0020.js.map": "/atharvasardarportfolio/static/js/main.1c5b0020.js.map",
     "453.f9621e92.chunk.js.map": "/atharvasardarportfolio/static/js/453.f9621e92.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d9cc73a.css",
-    "static/js/main.0649c326.js"
+    "static/css/main.dc761813.css",
+    "static/js/main.1c5b0020.js"
   ]
 }
