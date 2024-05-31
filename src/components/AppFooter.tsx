@@ -1,5 +1,6 @@
 import React from "react";
 import "../assets/css/AppFooter.css";
+import '../assets/css/global.css';
 import {Link} from "react-router-dom";
 
 function AppFooter(){

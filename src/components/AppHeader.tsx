@@ -1,6 +1,7 @@
 import React from "react";
 import "../assets/css/AppHeader.css";
 import {Link} from "react-router-dom";
+import '../assets/css/global.css';
 
 
 function AppHeader() {
