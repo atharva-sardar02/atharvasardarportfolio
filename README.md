@@ -47,4 +47,8 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 =======
 # atharvasardarportfolio
+# for deployment on github
+# git add.
+# git commit -m " bjdf"
+# git push origin main
 >>>>>>> be6e547fa6b1596d1da8a2bceb99ed372c0670d5
