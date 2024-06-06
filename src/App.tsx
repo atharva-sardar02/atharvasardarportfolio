@@ -7,16 +7,21 @@ import {
     Routes,
     Route,
 } from "react-router-dom"
+import "./App.css"
 
 function App() {
     return (
-        <Router basename={"atharvasardarportfolio"}>
-            <AppHeader />
-            <Routes>
-                <Route path="/" element={<Home/>}/>
-            </Routes>
-            <AppFooter />
-        </Router>
+        <div className="app-container">
+            <Router basename={"atharvasardarportfolio"}>
+                <AppHeader/>
+                <div className="content">
+                    <Routes>
+                        <Route path="/" element={<Home/>}/>
+                    </Routes>
+                </div>
+                <AppFooter/>
+            </Router>
+        </div>
     );
 }
 

@@ -7,46 +7,34 @@ function Home() {
     return (
         <div>
             <p>
-                Line1
+                Hello My Name is Atharva Sardar...
             </p>
             <p>
-                Line2
+                Currently I am pursuing my masters degree in CS from Virginia Tech
             </p>
             <p>
-                Line3
+                My desired job profile is of data scientist.
             </p>
             <p>
-                Line4
+                I am a Mathematics Enthusiast
             </p>
             <p>
-                Line5
+                This is a platform build by me to showcase my skills.
             </p>
             <p>
-                Line6
+                It also provides one with a way to contact me
             </p>
             <p>
-                Line7
+                I have taken variety of courses during the course of my masters degree which have provided me with the knowledge to succeed in my career.
             </p>
             <p>
-                Line8
+                The courses include: Machine learning (CS 5805), Urban Computing (CS 5834), Software Engineering (CS 5704), Web Application Development (CS 5244), Data Structures and Algorithms (CS 5040), Ethics and Professionalism in Computer Science (CS 5024)
             </p>
             <p>
-                Line9
+                I am very excited to apply the knowledge in the real world..
             </p>
             <p>
-                Line10
-            </p>
-            <p>
-                Line11
-            </p>
-            <p>
-                Line12
-            </p>
-            <p>
-                Line13
-            </p>
-            <p>
-                Line14
+                Feel free to navigate to my projects...
             </p>
         </div>
     )
