@@ -24,6 +24,7 @@ header {
     /*font-family: var(--title-font-family);*/
     /*color: whitesmoke;*/
     align-content: center;
+    color: #111111;
 }
 
 .text-logo:hover {
