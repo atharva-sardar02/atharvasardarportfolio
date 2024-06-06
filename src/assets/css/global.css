@@ -28,7 +28,7 @@
 
     --primary-color: rgb(255, 179, 0);
     --primary-color-dark: rgb(139, 69, 0);
-    --primary-background-color: whitesmoke;
+    --primary-background-color: cadetblue;
     --secondary-background-color: #51360D;
     --card-background-color: navajowhite;
 }
@@ -150,7 +150,7 @@ textarea {
 */
 .dark-background {
     background-color: var(--neutral-color);
-    color: whitesmoke;
+    color: cadetblue;
 }
 
 /* BODY */
@@ -182,7 +182,7 @@ body {
 {
     display: inline-block;
     background: #b20c03;
-    color: white;
+    color: cadetblue;
     text-decoration: none;
     padding: 0.5em 1em;
     cursor: pointer;
@@ -211,7 +211,7 @@ body {
 .action-button:hover,
 .button:active {
     background: var(--primary-color-dark);
-    color: white;
+    color: cadetblue;
 }
 
 
