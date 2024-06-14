@@ -8,6 +8,7 @@ import {
     Route,
 } from "react-router-dom"
 import "./App.css"
+import Projects from "./components/Projects";
 
 function App() {
     return (
@@ -17,6 +18,7 @@ function App() {
                 <div className="content">
                     <Routes>
                         <Route path="/" element={<Home/>}/>
+                        <Route path="/projects" element={<Projects/>}/>
                     </Routes>
                 </div>
                 <AppFooter/>
