@@ -37,7 +37,7 @@ function AppHeader() {
                 {/*    </div>*/}
                 {/*</form>*/}
                 <section className="same-line-buttons">
-                    <Link to="/" className="header-link-button">
+                    <Link to="/projects" className="header-link-button">
                         <button className="button">About</button>
                     </Link>
                     <div>
